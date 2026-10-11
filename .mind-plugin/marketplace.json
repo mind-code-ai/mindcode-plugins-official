@@ -31,10 +31,10 @@
       "version": "1.0.0"
     },
     {
-      "name": "marketing",
-      "source": "./plugins/marketing",
+      "name": "copywriting",
+      "source": "./plugins/copywriting",
       "description": "Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles",
-      "category": "Marketing",
+      "category": "Copywriting",
       "keywords": [
         "copywriting",
         "copy-editing",
