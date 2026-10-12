@@ -29,6 +29,8 @@ Plugin commands are namespaced by plugin name — the example above adds:
 | [butler](plugins/butler) | A greeting plugin to learn the basics |
 | [fme](plugins/fme) | Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions |
 | [copywriting](plugins/copywriting) | Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles |
+| [figma](plugins/figma) | Work a design file: radiographs, motion, camera moves, interface craft, component handoff, color tokens, audits, UI states, design review, and usability guides |
+| [blog](plugins/blog) | Write, review, and tighten engineering blog posts so a developer would send the piece to a teammate |
 
 ## Plugin structure
 

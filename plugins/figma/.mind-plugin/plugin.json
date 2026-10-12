@@ -1,0 +1,8 @@
+{
+  "name": "figma",
+  "description": "Work a design file: radiographs, motion, camera moves, interface craft, component handoff, color tokens, audits, UI states, design review, and usability guides",
+  "version": "1.0.0",
+  "author": {
+    "name": "thebrightondev"
+  }
+}
