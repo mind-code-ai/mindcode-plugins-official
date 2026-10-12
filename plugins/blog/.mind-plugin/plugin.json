@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "description": "Write, review, and tighten engineering blog posts so a developer would send the piece to a teammate",
+  "version": "1.0.0",
+  "author": {
+    "name": "thebrightondev"
+  }
+}

@@ -44,6 +44,33 @@
         "advertising"
       ],
       "version": "1.0.0"
+    },
+    {
+      "name": "figma",
+      "source": "./plugins/figma",
+      "description": "Work a design file: radiographs, motion, camera moves, interface craft, component handoff, color tokens, audits, UI states, design review, and usability guides",
+      "category": "Design",
+      "keywords": [
+        "figma",
+        "design",
+        "components",
+        "motion",
+        "usability"
+      ],
+      "version": "1.0.0"
+    },
+    {
+      "name": "blog",
+      "source": "./plugins/blog",
+      "description": "Write, review, and tighten engineering blog posts so a developer would send the piece to a teammate",
+      "category": "Writing",
+      "keywords": [
+        "blog",
+        "engineering",
+        "postmortem",
+        "tutorial"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
