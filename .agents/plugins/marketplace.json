@@ -1,0 +1,68 @@
+{
+  "name": "mindcode-plugins-official",
+  "interface": {
+    "displayName": "Mind Code Official Plugins"
+  },
+  "plugins": [
+    {
+      "name": "butler",
+      "source": {
+        "source": "local",
+        "path": "./plugins/butler"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Getting Started"
+    },
+    {
+      "name": "fme",
+      "source": {
+        "source": "local",
+        "path": "./plugins/fme"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Data & Analytics"
+    },
+    {
+      "name": "copywriting",
+      "source": {
+        "source": "local",
+        "path": "./plugins/copywriting"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Copywriting"
+    },
+    {
+      "name": "figma",
+      "source": {
+        "source": "local",
+        "path": "./plugins/figma"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "blog",
+      "source": {
+        "source": "local",
+        "path": "./plugins/blog"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Writing"
+    }
+  ]
+}

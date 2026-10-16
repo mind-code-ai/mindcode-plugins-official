@@ -1,0 +1,9 @@
+{
+  "name": "butler",
+  "description": "A greeting plugin to learn the basics",
+  "version": "1.0.0",
+  "author": {
+    "name": "thebrightondev"
+  },
+  "skills": "./skills/"
+}
